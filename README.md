@@ -118,12 +118,6 @@ GUI features:
 - **Show balances**  
   Computes the current balance for each address from all transactions (excluding the genesis block) and displays them.
 
-Confirmations:
-
-- The number of confirmations for block `i` is defined as:
-
-  ```text
-
   ## 3. Requirements
 
 - Python **3.8+** (tested with 3.8)
