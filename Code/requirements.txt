@@ -1,0 +1,8 @@
+# Crypto (AES, RSA, signature, hash…)
+pycryptodome
+
+# Pour exécuter le notebook .ipynb avec le kernel de ton venv
+ipykernel
+
+# Pour lancer le notebook en dehors de VS Code si besoin
+notebook
