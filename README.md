@@ -14,13 +14,21 @@ The goal is to explore different cryptographic primitives and protocols in Pytho
 
 ## 1. Project structure
 TP_cyber/
+
 └── Code/
+
 ├── crypto.ipynb # Main lab notebook (symmetric + asymmetric crypto)
+
 ├── app_aes.py # CLI application for AES file encryption/decryption
+
 ├── blockchain_ui.py # Tkinter GUI for the simplified blockchain
+
 ├── requirements.txt # Python dependencies
+
 ├── image.png # Example image used in AES tests
+
 ├── 00b01445_nohash_0.wav # Example audio file used in AES tests
+
 └── ... # Generated encrypted/decrypted files
 
 
@@ -115,7 +123,6 @@ Confirmations:
 - The number of confirmations for block `i` is defined as:
 
   ```text
-  confirmations(block i) = len(chain) - i
 
   ## 3. Requirements
 
